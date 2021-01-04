@@ -2,8 +2,11 @@ body{
     margin: 0;
 }
 .half h1{
-      font-size: 30px;
+      font-size: 35px;
       
+}
+.span{
+    color: darkorange;
 }
 .half{
     width: 40%;
