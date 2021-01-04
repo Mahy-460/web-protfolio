@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+.half h1{
+      font-size: 30px;
+      
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 4%;
+}
+.half img{
+    width: 100%;
+}
