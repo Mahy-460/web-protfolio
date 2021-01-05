@@ -35,6 +35,7 @@ section{
     padding: 5px 10px;
     border-radius: 10%;
     font-weight: 700;
+
 }
 .half img{
     width: 100%;
@@ -45,7 +46,7 @@ section{
     float: left;
     margin-left: 5%;
     padding-left: 4%;
-    
+    height: 20%;
 }
 
 .hal img{
@@ -60,16 +61,33 @@ section{
 .text{
     text-align: center;
     font-size: 30px;
-    height: 30%;
+    height: 20%;
 }
 
 .single-exprience{
     box-shadow: 10px 10px 40px gray;
     height: 80%;
-  
+    border-radius: 20px;
+    
 }
 .final{
     background-image: url("imgs/exp-bg.png");
     background-repeat: no-repeat;
-    bac
+    background-position: left;
+    
+}
+.final h3{
+    color: darkred;
+}
+#unik{
+    border-left: 4px solid ;
+    border-image: linear-gradient(180deg, darkred, tomato  );
+    border-image-slice: 1;
+    background-color: rgb(245, 255, 250);
+    
+}
+#unike{
+    border-left: 4px solid;
+    border-image: linear-gradient(180deg, rgb(91, 91, 128), navy);
+    border-image-slice: 1;
 }
