@@ -91,3 +91,8 @@ section{
     border-image: linear-gradient(180deg, rgb(91, 91, 128), navy);
     border-image-slice: 1;
 }
+.footer{
+    text-align: center;
+    color: olive;
+    
+}
