@@ -27,7 +27,6 @@ section{
     float: left;
     margin-left: 5%;
     padding-left: 4%;
-    
 }
 .link-button{
     text-decoration: none;
@@ -61,10 +60,16 @@ section{
 .text{
     text-align: center;
     font-size: 30px;
-    height: 10%;
+    height: 30%;
 }
 
 .single-exprience{
     box-shadow: 10px 10px 40px gray;
-   
+    height: 80%;
+  
+}
+.final{
+    background-image: url("imgs/exp-bg.png");
+    background-repeat: no-repeat;
+    bac
 }
